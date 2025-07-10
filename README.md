@@ -53,3 +53,6 @@ Multilingual Support – Can be extended to analyze sentiments in multiple langu
 CONCLUSION:
 
 Sentiment Analysis using NLP is a powerful tool for understanding human emotions expressed in text. With the integration of machine learning and modern NLP techniques, businesses and researchers can extract meaningful insights from large datasets. As models evolve, especially with the advancement of deep learning and transformers, sentiment analysis becomes more accurate and context-aware, enabling smarter and faster decision-making in diverse fields such as marketing, politics, healthcare, and customer support.
+
+OUTPUT:
+<img width="456" height="173" alt="Image" src="https://github.com/user-attachments/assets/5a3a9d19-e9fc-4923-9d3b-363902a42ad2" />
